@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('Fonts/Coolvetica-HeavyComp.woff2') format('woff2'),
+        url('Fonts/Coolvetica-HeavyComp.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Italic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Bold.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-ExtraLight.woff2') format('woff2'),
+        url('Fonts/Gontserrat-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('Fonts/Coolvetica-Cram.woff2') format('woff2'),
+        url('Fonts/Coolvetica-Cram.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-ExtraLightItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Black.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-ExtraBoldItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('Fonts/Coolvetica-Regular.woff2') format('woff2'),
+        url('Fonts/Coolvetica-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-BlackItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('Fonts/Coolvetica-Italic.woff2') format('woff2'),
+        url('Fonts/Coolvetica-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('Fonts/Coolvetica-Cond.woff2') format('woff2'),
+        url('Fonts/Coolvetica-Cond.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-BoldItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-ExtraBold.woff2') format('woff2'),
+        url('Fonts/Gontserrat-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-ThinItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-LightItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-MediumItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Light.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-SemiBold.woff2') format('woff2'),
+        url('Fonts/Gontserrat-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Thin.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Medium.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-SemiBoldItalic.woff2') format('woff2'),
+        url('Fonts/Gontserrat-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Keep Calm Med';
+    src: url('Fonts/KeepCalm-Medium.woff2') format('woff2'),
+        url('Fonts/KeepCalm-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gontserrat';
+    src: url('Fonts/Gontserrat-Regular.woff2') format('woff2'),
+        url('Fonts/Gontserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
