@@ -36,9 +36,9 @@ document.addEventListener("DOMContentLoaded", function () {
       document.querySelector('.start-consult-modal-whatsappicon-content.callout').style.opacity = 1;
     }, 200);
     // Yes button
-  startConsultationPopupYes.addEventListener("click", function () {
-    window.location.href = "https://api.whatsapp.com/send?phone=628117009393&text=Halo%20saya%20ingin%20konsultasi...";
-  });
+    startConsultationPopupYes.addEventListener("click", function () {
+      window.location.href = "https://api.whatsapp.com/send?phone=628117009393&text=Halo%20saya%20ingin%20konsultasi...";
+    });
     // Close modal button
     document.addEventListener("click", function (event) {
       if (
@@ -53,22 +53,21 @@ document.addEventListener("DOMContentLoaded", function () {
         }, 300);
       }
     });;   
-  
+});
+
       // Navigation Bar Animation
-  window.addEventListener('scroll', () => {
+    window.addEventListener('scroll', () => {
+
     const currentScrollTop = window.scrollY; 
 
     if (currentScrollTop > 15) {
       navContainer.classList.add('scrolled');
-  
       navlogo.style.backgroundImage = "url('Images/LogoPTMJM/LOGO_PT_MJM_PANJANG.png')";
-      if (currentScrollTop > lastScrollTop) {
- 
-        navContainer.style.top = "-7vw";
-      } else {
-          
-        navContainer.style.top = "0vw"; 
-      }
+    if (currentScrollTop > lastScrollTop) {
+      navContainer.style.top = "-7vw";
+    } else {
+      navContainer.style.top = "0vw"; 
+    }
     } else {
       navlogo.style.backgroundImage = "url('Images/LogoPTMJM/LOGO_PT_MJM_PANJANG_putih.png')"; 
       navContainer.classList.remove('scrolled');
@@ -76,7 +75,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     lastScrollTop = currentScrollTop <= 0 ? 0 : currentScrollTop;
-  });
+    });
   
   });
-});
